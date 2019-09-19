@@ -13,7 +13,7 @@ contact: ["linda.kalejs@monash.edu"]    # boxed, comma-separated list of contact
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
+  - venue: "in person"
     address: "https://carpentries.zoom.us/j/FIXME"
 
   - venue: "Monash University"
